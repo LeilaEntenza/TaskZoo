@@ -20,3 +20,19 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.nav-link{
+  width: 100%;
+  margin-left: 30%;
+}
+
+nav .navbar-nav li a{
+  color:#FFF9CA !important;
+  font-size: larger;
+  }
+
+
+ body{
+  font-family: "Atkinson Hyperlegible Next", serif;
+  font-optical-sizing: auto;
+}

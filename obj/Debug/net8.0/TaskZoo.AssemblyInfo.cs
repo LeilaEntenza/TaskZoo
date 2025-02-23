@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TaskZoo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd5badc7155262117f76517e5c05b0b34550731f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bfe7195798d08ae92621e7fa3fd75a61a7ca56e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("TaskZoo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TaskZoo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
